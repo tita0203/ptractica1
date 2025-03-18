@@ -1,6 +1,8 @@
 package practica1;
 import java.util.Scanner;
 
+//Comentario de prueba para el Push a GitHub
+
 /**
  * Clase que permite el ingreso de notas de un estudiante, realiza comprobaciones,
  * calcula la nota final y muestra los resultados.
